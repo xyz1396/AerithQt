@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/logo.png</file>
+    </qresource>
+    <qresource prefix="/Json"/>
+    <qresource prefix="/Table">
+        <file>Table/PTM.csv</file>
+        <file>Table/Element.csv</file>
+        <file>Table/Isotope.csv</file>
+    </qresource>
+</RCC>

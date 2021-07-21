@@ -1,0 +1,18 @@
+﻿# Carbon,,,,,,
+Element_Masses{C} ,=,12,13.003355,,,
+Element_Percent{C} ,=,0.9893,0.0107,,,
+# Hydrogen,,,,,,
+Element_Masses{H} ,=,1.007825,2.014102,,,
+Element_Percent{H} ,=,0.999885,0.000115,,,
+# Oxygen,,,,,,
+Element_Masses{O} ,=,15.994915,16.999132,17.99916,,
+Element_Percent{O} ,=,0.99757,0.00038,0.00205,,
+# Nitrogen,,,,,,
+Element_Masses{N} ,=,14.003074,15.000109,,,
+Element_Percent{N} ,=,0.99632,0.00368,,,
+# Phosphorus ,,,,,,
+Element_Masses{P} ,=,30.973762,,,,
+Element_Percent{P} ,=,1,,,,
+# Sulfur,,,,,,
+Element_Masses{S} ,=,31.972071,32.971459,33.967867,34.967867,35.967081
+Element_Percent{S} ,=,0.9493,0.0076,0.0429,0,0.0002

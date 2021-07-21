@@ -1,0 +1,13 @@
+﻿PTM{~} = M,# Oxidation of Met 
+#PTM{!} = NQ,# Deamidation of NQ 
+#PTM{@} = STYHD,# Phosphorylation
+#PTM{>to1} = STYHD,# Phosphorylation with losing HPO3
+#PTM{<to2} = ST,# Phosphorylation with losing HPO3 and H2O
+#PTM{%} = K,# Acetylation
+#PTM{^} = KRED,# Mono-methylation
+#PTM{&} = KR,# Di-methylation
+#PTM{*} = K,# Tri-methylation
+#PTM{(} = C,# S-Nitrosylation search with natural Cys
+#PTM{)} = Y,# Nitration
+#PTM{/} = C,# IAA blocking
+#PTM{$} = D,# beta-methylthiolation
